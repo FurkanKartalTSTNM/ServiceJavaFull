@@ -29,7 +29,7 @@ public void DoGrpcBasedCashWithdrawalWithAutoMemento_HappyPath_Success() {
 }
 
 @Test
-public void DoRestfulCashWithdrawalWithAutoMemento_HappyPath_Success() {
+public void deneme() {
     // basic placeholder assertion
     assertTrue(true);
 }
